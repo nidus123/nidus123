@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nidus123
-- 👀 I’m interested in learning new stuff
+- 👀 I’m interested in learning new stuff all the time
 - 🌱 I’m currently learning python
 
 <!---
